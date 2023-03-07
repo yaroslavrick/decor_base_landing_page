@@ -1,4 +1,4 @@
-@import 'modern-normalize.css';
+@import './modern-normalize.css';
 @import './fonts.css';
 .services__btn, .home__btn {
   display: inline-block;
